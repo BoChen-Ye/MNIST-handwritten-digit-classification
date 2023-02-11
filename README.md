@@ -1,6 +1,7 @@
 # MNIST-handwritten digit classification
  This is a lab of python in deep learning. we want to generate a multilayer perceptron for handwritten digit classification from scratch: Using only NumPy and matplotlib libraries.
-# setup of jupyter notebok
+ 这是一个深度学习中的python实验。我想从头开始写一个用于手写数字分类的多层感知器。Part 1部分只使用NumPy和matplotlib库，Part 2使用Pytorch库。
+# setup of jupyter notebok 开始使用jupyter notebook
 ## English Verision
 - Install `Anacoda`
 - open `Anacoda Powershell Prompt` and input `conda init --all`
@@ -12,7 +13,7 @@
 - open `Anacoda Powershell Prompt`
 - Use `D:` to go to the disk where your folder is located(there I go to D disk) 
 - Input `jupyter notebook`, then you can choose folder where lab is located.
-## Chinese Verision
+## 中文版Chinese Verision
 - 安装 `Anacoda`
 - 打开 `Anacoda Prompt` 然后输入 `conda init --all`
 - 以管理员身份打开 PowerShell (`win + x`) 然后输入 `set-executionpolicy remotesigned`.
