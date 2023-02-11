@@ -1,5 +1,6 @@
 # MNIST-handwritten digit classification
  This is a lab of python in deep learning. we want to generate a multilayer perceptron for handwritten digit classification from scratch: Using only NumPy and matplotlib libraries.
+ 
  这是一个深度学习中的python实验。我想从头开始写一个用于手写数字分类的多层感知器。Part 1部分只使用NumPy和matplotlib库，Part 2使用Pytorch库。
 # setup of jupyter notebok 开始使用jupyter notebook
 ## English Verision
